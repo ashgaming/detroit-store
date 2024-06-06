@@ -1,0 +1,17 @@
+js commmands :
+npm start
+npm create-react-app app
+npm install boostrap
+npm install react-boostrap
+npm install react-router-dom 
+npm install react-router-boostrap
+
+npm install axios
+
+
+python:
+<<<<<<< Updated upstream
+pip install djangorestframework
+=======
+
+>>>>>>> Stashed changes

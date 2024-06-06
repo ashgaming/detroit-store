@@ -1,0 +1,13 @@
+.activesignal{
+    height: 15px;
+    width: 15px;
+    border-radius: 100%;
+    padding: auto;
+    bottom: 0%;
+    text-align: center;
+    display: inline-block;
+}
+
+td{
+    text-align: center;
+}

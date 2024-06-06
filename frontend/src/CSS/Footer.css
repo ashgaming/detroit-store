@@ -1,0 +1,27 @@
+.FooterBack {
+    animation: ChangeColor 5s infinite alternate;
+    margin-top: 2vw;
+  /*  position: fixed; /* or absolute /
+    left: 50%;
+    transform: translateX(-50%);*/
+    bottom: 0;
+    width: 100%;
+}
+
+@keyframes ChangeColor {
+    0% {
+        background-color: gray;
+    }
+
+    25% {
+        background-color: #c4c3d0 ;
+    }
+
+    25% {
+        background-color: #979aaa;
+    }
+
+    100% {
+        background-color: #777696;
+    }
+}

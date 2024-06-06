@@ -1,0 +1,40 @@
+.couraosel_product_container{
+    height: 100px;
+    color: red;
+    background-color: aqua;
+    padding: 20px;
+    
+    
+}
+
+.co_image {
+    height:15rem;
+    width:15rem;
+    border-radius: 50%;
+    aspect-ratio:3/2;
+    overflow: hidden;
+    display: block;
+    margin: 0 auto;
+}
+
+.heading{
+    position: relative;
+   width: 100%;
+}
+
+.heading_price{
+    color: white; 
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-shadow: 2px 2px 4px rgba(0, 245, 102, 0.903);
+ }
+
+ .heading_name{
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-shadow: 2px 2px 4px rgba(253, 228, 0, 0.832);
+ }
+

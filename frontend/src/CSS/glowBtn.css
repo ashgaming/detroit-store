@@ -1,0 +1,15 @@
+button{
+
+    background-color: red;
+    color: black;
+    transition: all ease 0.5s;
+
+}
+
+button:hover{
+    -webkit-box-reflect: below 1px linear-gradient(transparent,#0005);
+    box-shadow:0 0 5px rgb(64, 64, 224), 0 0 rgb(64, 64, 224) ,0 0 25px rgb(64, 64, 224), 0 0 100px rgb(64, 64, 224);
+    cursor: pointer;
+
+}
+

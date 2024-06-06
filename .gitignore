@@ -1,0 +1,3 @@
+# created by virtualenv automatically
+.env
+frontend/node_modules

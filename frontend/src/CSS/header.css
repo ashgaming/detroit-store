@@ -1,0 +1,23 @@
+.headersposition {
+    position: fixed;
+    /* or absolute */
+    left: 0;
+    width: 100%;
+    z-index: 100;
+    top: 0;
+}
+
+li.login-link{
+    padding: auto;
+    float : right;
+    
+}
+
+
+.container-div{
+    width: 100%;
+}
+
+.brand-name{
+    padding-left: 20px;
+}
